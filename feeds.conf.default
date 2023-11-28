@@ -5,6 +5,6 @@ src-git telephony git://git.openwrt.org/feed/telephony.git^0183c1adda0e7581698b0
 #src-link custom /usr/src/openwrt/custom-feed
 src-git mtk_openwrt_feed https://git01.mediatek.com/openwrt/feeds/mtk-openwrt-feeds
 
-src-git packages https://github.com/coolsnowwolf/packages
+src-git lienol https://github.com/Lienol/openwrt-package
 src-git small https://github.com/kenzok8/small
-scr-git lede https://github.com/coolsnowwolf/openwrt-packages
+scr-git packages https://github.com/coolsnowwolf/packages
