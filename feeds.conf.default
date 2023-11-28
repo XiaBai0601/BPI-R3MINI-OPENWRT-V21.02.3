@@ -7,4 +7,4 @@ src-git mtk_openwrt_feed https://git01.mediatek.com/openwrt/feeds/mtk-openwrt-fe
 
 src-git lienol https://github.com/Lienol/openwrt-package
 src-git small https://github.com/kenzok8/small
-scr-git packages https://github.com/coolsnowwolf/packages
+src-git packages https://github.com/coolsnowwolf/packages
